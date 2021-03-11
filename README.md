@@ -4,7 +4,7 @@ Step 2: Create a init.sqf add the following:
 
 call compile preprocessFileLineNumbers "EPD\VirtualJTAC\init.sqf";
 
-Step 3: Create a description.ext and add the following
+Step 3: Create a description.ext and add the following:
 
 class CfgNotifications
 {
